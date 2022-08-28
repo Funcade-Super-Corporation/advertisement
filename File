@@ -1,0 +1,7 @@
+callServers();
+getEveryMoveYouEverMade();
+findPerfectAd();
+showAd();
+if userMissesXButtonBy1Pixel {
+	goToAppStore();
+}
